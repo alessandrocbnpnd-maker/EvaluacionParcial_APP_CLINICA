@@ -33,6 +33,21 @@ Bueno en este apartdo es donde se visualiza los componentes que utilizamos para 
    
    <img width="258" height="53" alt="image" src="https://github.com/user-attachments/assets/1f460b08-6815-4061-9a3b-06bc1c4c5557" />
 
+   -WIDGET: Vendria ser el componente de carga donde yo utilize el "progressBar" tambien le cambie de color en el apartado de "indeterminateTint".
+
+<img width="437" height="87" alt="image" src="https://github.com/user-attachments/assets/52bd8e9c-f87f-48af-be21-910d7ad420d8" />
+<img width="157" height="53" alt="image" src="https://github.com/user-attachments/assets/4976aa41-9b5a-4d6b-a722-66f38a7530ed" />
+
+   -BOTONES: El componente Button sirve para poder guardar los datos recolectados del Input en mi caso vendrian ser el nombre del paciente para "Reservar Citas" tambien procedi ah cambiar el color de los botones en "backgroundTint" al color que convenga mas con el diseño de la APP.
+   
+   <img width="480" height="76" alt="image" src="https://github.com/user-attachments/assets/a114b01c-cba2-49f2-a649-fa1bdedc01f6" />
+   <img width="288" height="94" alt="image" src="https://github.com/user-attachments/assets/c622a04a-0bd6-4fd7-a70c-9ef314369c80" />
+
+   #DISEÑO FINAL YA EJECUTADO DE LA APP
+
+   <img width="1919" height="1079" alt="Captura de pantalla 2026-02-27 220128" src="https://github.com/user-attachments/assets/064ca011-8566-4d73-b9ec-623d573cb01e" />
+
+
 
 
    
