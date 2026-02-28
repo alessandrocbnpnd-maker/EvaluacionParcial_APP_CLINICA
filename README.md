@@ -18,7 +18,7 @@ En este apartado es donde se colocan los componendes necesarios para poder dise√
    
 Bueno en este apartdo es donde se visualiza los componentes que utilizamos para realizar el dise√±o de nuestra APP
 
-6) Ah continucacion pasare a explicar los componentes quee utilize detalladamente
+6) Ah continucacion pasare a explicar los componentes que utilize detalladamente
 
    -IMAGEN: una vez escoguida la imagen que necesites nos vamos al apartado de "Drawable" y lo pegaremos automaticamente se guardara la imagen y podras encontrarlo en "Imagen View"
    
