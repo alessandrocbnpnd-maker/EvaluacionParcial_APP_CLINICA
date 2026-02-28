@@ -24,7 +24,7 @@ Bueno en este apartdo es donde se visualiza los componentes que utilizamos para 
    
    <img width="1239" height="271" alt="image" src="https://github.com/user-attachments/assets/9041401f-2c76-4279-8fde-abc37c4cc5aa" />
 
-   -TEXTO: Aqui es donde seleccionames el "TexView" este componente sirve para poder poner titulos subtitulos etc en mi caso lo use como titulos fijados donde lo cambia el tipo de letra y el fondo ah otros colores
+   -TEXTO: Aqui es donde seleccionames el "TexView" este componente sirve para poder poner titulos subtitulos etc en mi caso lo use como titulos fijados donde lo cambia el tipo de letra el tamaño y el fondo ah otros colores
    
    <img width="283" height="105" alt="image" src="https://github.com/user-attachments/assets/3cb04493-a221-4e77-9839-f42596834306" />
 
