@@ -43,11 +43,13 @@ Bueno en este apartdo es donde se visualiza los componentes que utilizamos para 
    <img width="480" height="76" alt="image" src="https://github.com/user-attachments/assets/a114b01c-cba2-49f2-a649-fa1bdedc01f6" />
    <img width="288" height="94" alt="image" src="https://github.com/user-attachments/assets/c622a04a-0bd6-4fd7-a70c-9ef314369c80" />
 
+   - TAMBIEN PROCEDI AH CAMBIAR EL COLOR DE FONDO PARA QUE EL DISEÑO SE VEA MAS ATRACIIVO.
+   
+   <img width="452" height="74" alt="image" src="https://github.com/user-attachments/assets/4a25e2cf-0a9e-4240-8bec-0ba28eb25c7a" />
+
    #DISEÑO FINAL YA EJECUTADO DE LA APP
 
    <img width="1919" height="1079" alt="Captura de pantalla 2026-02-27 220128" src="https://github.com/user-attachments/assets/064ca011-8566-4d73-b9ec-623d573cb01e" />
-
-
 
 
    
