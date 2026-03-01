@@ -30,7 +30,7 @@ Aqui se ve la APP de la clinica Internacional ya ejecutada como ya mencione tien
    <img width="283" height="105" alt="image" src="https://github.com/user-attachments/assets/3cb04493-a221-4e77-9839-f42596834306" />
 
 
-   -Input: El componente que utilize fue el "Plain Text" sirve para poder agregar texto en mi caso vendria ser siendo Nombres y apellidos del paciente.
+   -Input: El componente que utilize fue el "Plain Text" sirve para poder agregar texto en mi caso vendria ser siendo nombres y apellidos del paciente.
    
    <img width="258" height="53" alt="image" src="https://github.com/user-attachments/assets/1f460b08-6815-4061-9a3b-06bc1c4c5557" />
 
