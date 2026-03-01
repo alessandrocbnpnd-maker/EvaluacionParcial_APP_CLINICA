@@ -21,30 +21,30 @@ Aqui se ve la APP de la clinica Internacional ya ejecutada como ya mencione tien
 
 6.   Ah continucacion pasare a explicar los componentes que utilize detalladamente.
 
-   -Imagen:  Una vez escoguida la imagen que necesites nos vamos al apartado de "Drawable" y lo pegaremos automaticamente se guardara la imagen y podras encontrarlo en    "Imagen View"
+   -  Imagen:  Una vez escoguida la imagen que necesites nos vamos al apartado de "Drawable" y lo pegaremos automaticamente se guardara la imagen y podras encontrarlo en    "Imagen View"
    
    <img width="1239" height="271" alt="image" src="https://github.com/user-attachments/assets/9041401f-2c76-4279-8fde-abc37c4cc5aa" />
 
-   -Texto: Aqui es donde seleccionames el "TexView" este componente sirve para poder poner titulos subtitulos etc en mi caso lo use como titulos fijados donde lo cambia el tipo de letra el tamaño y el fondo ah otros colores.
+   -  Texto: Aqui es donde seleccionames el "TexView" este componente sirve para poder poner titulos subtitulos etc en mi caso lo use como titulos fijados donde lo cambia el tipo de letra el tamaño y el fondo ah otros colores.
    
    <img width="283" height="105" alt="image" src="https://github.com/user-attachments/assets/3cb04493-a221-4e77-9839-f42596834306" />
 
 
-   -Input: El componente que utilize fue el "Plain Text" sirve para poder agregar texto en mi caso vendria ser siendo nombres y apellidos del paciente.
+   -  Input: El componente que utilize fue el "Plain Text" sirve para poder agregar texto en mi caso vendria ser siendo nombres y apellidos del paciente.
    
    <img width="258" height="53" alt="image" src="https://github.com/user-attachments/assets/1f460b08-6815-4061-9a3b-06bc1c4c5557" />
 
-   -Widget: Vendria ser el componente de carga donde yo utilize el "progressBar" tambien le cambie de color en el apartado de "indeterminateTint".
+   -  Widget: Vendria ser el componente de carga donde yo utilize el "progressBar" tambien le cambie de color en el apartado de "indeterminateTint".
 
 <img width="437" height="87" alt="image" src="https://github.com/user-attachments/assets/52bd8e9c-f87f-48af-be21-910d7ad420d8" />
 <img width="157" height="53" alt="image" src="https://github.com/user-attachments/assets/4976aa41-9b5a-4d6b-a722-66f38a7530ed" />
 
-   -Botones: El componente Button sirve para poder guardar los datos recolectados del Input en mi caso vendrian ser el nombre del paciente para "Reservar Citas" tambien procedi ah cambiar el color de los botones en "backgroundTint" al color que convenga mas con el diseño de la APP.
+   -  Botones: El componente Button sirve para poder guardar los datos recolectados del Input en mi caso vendrian ser el nombre del paciente para "Reservar Citas" tambien procedi ah cambiar el color de los botones en "backgroundTint" al color que convenga mas con el diseño de la APP.
    
    <img width="480" height="76" alt="image" src="https://github.com/user-attachments/assets/a114b01c-cba2-49f2-a649-fa1bdedc01f6" />
    <img width="288" height="94" alt="image" src="https://github.com/user-attachments/assets/c622a04a-0bd6-4fd7-a70c-9ef314369c80" />
 
-   -Tambien procedi ah cambiar el color de fondo para que el diseño se vea mas atractivo.
+   -  Tambien procedi ah cambiar el color de fondo para que el diseño se vea mas atractivo.
    
    <img width="452" height="74" alt="image" src="https://github.com/user-attachments/assets/4a25e2cf-0a9e-4240-8bec-0ba28eb25c7a" />
 
